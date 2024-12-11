@@ -5,7 +5,7 @@ notebook
 numpy
 matplotlib
 seaborn
-python-box ==6.0.2
+python-box ==7.0
 pyYAML
 tqdm  # to see the progress bar
 ensure ==1.0.2
