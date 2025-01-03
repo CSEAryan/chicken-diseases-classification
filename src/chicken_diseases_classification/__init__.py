@@ -19,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("chicken_diseases_classification")
+logger = logging.getLogger("chicken_diseases_classification ")
