@@ -2,7 +2,7 @@ Chicken Disease Classification
 
 📸 Screenshots
 
-![Homepage](images/Screensort1.png)
+![Homepage](images/Screenshot1.png)
 
 📌 Project Overview
 
